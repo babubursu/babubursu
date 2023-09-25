@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- today i am creating database to perform changes in the system 
+- today i am creating database to perform changes in the system
+- one of the code isn't looking ok for me 
 
 <!---
 babubursu/babubursu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
